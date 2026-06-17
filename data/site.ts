@@ -4,7 +4,7 @@ export const site = {
   url: "https://decolumehome.com",
   description:
     "Curated home lighting picks for every room — floor lamps, table lamps, smart lamps, projectors, and more. Expert Amazon affiliate recommendations.",
-  affiliateTag: "YOURTAG-20",
+  affiliateTag: "decolumehome-20",
   email: "contact@decolumehome.com",
   year: 2026,
   nav: [
